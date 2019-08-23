@@ -14,11 +14,11 @@ Surround is an open-source framework developed and maintained by Applied Artific
 - **Flexibility**: Surround is built with flexibility in mind and it supports the use of almost all the existing frameworks allowing the users to leverage multiple technologies to get the task done.
 - **CLI**: Surround comes with a powerful command line tool which coupled with its python library allows many intermediate analysis tasks to be completed in short span of time.
 - **One framework for all**: Surround enforces a set of conventions to be followed thereby making sure that it is useful for researchers and developers. It is not tailor made for any specific type of machine learning problem and rather strives to provide support to all types of it which makes it the only framework you need to solve your problems.
-- **Platforms**: Surround is can be installed on all three major computing platforms, Windows, Mac and Linux.
+- **Platforms**: Surround can be installed on all three major computing platforms, Windows, Mac and Linux.
 
 ### Con's:
 - **Maturity**: Surround is currently used and maintained by A2I2 and it needs to be contributed and adopted by more machine learners to spur development.
-- **Documentation**: Surround lacks extensive documentation and beginner friendly guides that could generate interest in it and increase it popularity and maturity.
+- **Documentation**: Surround lacks extensive documentation and beginner friendly guides that could generate interest in it and increase its popularity and maturity.
 
 ## Caffe
 
@@ -31,4 +31,4 @@ Caffe, developed at University of California, Berkley, is an open-source deep le
 
 ### Con's:
 - **Production specific**: Caffe is tailored to be used for production deployments and is not very useful for researchers limiting the target audience.
-- **Complexity**: Caffe has been criticised for it's convoluted codes making user to switch from the framework altogether.
+- **Complexity**: Caffe has been criticised for it's convoluted codes consequently increasing the complexity of the task at hand rather than reducing it. 

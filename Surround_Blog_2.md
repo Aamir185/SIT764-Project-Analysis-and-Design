@@ -11,22 +11,22 @@ Machine Learning Frameworks are created to address some of the problems data sci
 Surround is an open-source framework developed and maintained by Applied Artificial Intelligence Institute (A2I2). More than a framework, the creators of Surround treat it as a philosphy aimed at reducing the efforts between data exploration and application deployment. It is aimed to be used by both developers and researchers and boasts of a powerful command line tool.
 
 ### Pro's:
-- **Flexibility**: Surround is built with flexibility in mind and it supports the use of almost all the existing frameworks allowing the users to leverage multiple technologies to get the task done.
-- **CLI**: Surround comes with a powerful command line tool which coupled with its python library allows many intermediate analysis tasks to be completed in short span of time.
-- **One framework for all**: Surround enforces a set of conventions to be followed thereby making sure that it is useful for researchers and developers. It is not tailor made for any specific type of machine learning problem and rather strives to provide support to all types of it which makes it the only framework you need to solve your problems.
+- **Flexibility**: Surround is built with flexibility in mind and it supports the use of almost all the existing frameworks allowing the users to leverage multiple technologies to get the task done. Surround's documentations claim it supports TensorFlow and PyTorch among other frameworks as well as Google Cloud AI, SageMaker and other cloud services which makes it pretty flexible versatile in its application.
+- **CLI**: Surround comes with a powerful command line tool which coupled with its python library allows many intermediate analysis tasks to be completed in short span of time. From creating the project templates and pipelines to deploying it, the command line takes care of all the needs of a machine learner.
+- **One framework for all**: Surround enforces a set of conventions to be followed thereby making sure that it is useful for researchers and developers. It is not tailor made for any specific type of machine learning problem and rather strives to provide support to all types of it which makes it the only framework you need to solve your problems. Combining this with the flexibility it provides as described above, Surround offers a single place to take care of all issues arising when developing machine learning algorithms.
 - **Platforms**: Surround can be installed on all three major computing platforms, Windows, Mac and Linux.
 
 ### Con's:
-- **Maturity**: Surround is currently used and maintained by A2I2 and it needs to be contributed and adopted by more machine learners to spur development.
+- **Maturity**: Surround is currently used and maintained by A2I2 and is still in the development phase and not adopted by machine learners around the globe. It needs more widespread adoption and contributions from users for it to achieve it's potential.
 - **Documentation**: Surround lacks extensive documentation and beginner friendly guides that could generate interest in it and increase its popularity and maturity.
 
 ## Caffe
 
-Caffe, developed at University of California, Berkley, is an open-source deep learning framework used primarily for image classification. It supports CNN as well as RCNN network designs. The main point of interest in Caffe are the pre-trained models that can be used without the need to code.
+Caffe, developed at University of California, Berkley, is an open-source deep learning framework used primarily for image classification. It supports CNN as well as RCNN network designs. The main point of interest in Caffe are the pre-trained models that can be used without the need to code making it popular with beginners in the field of machine learning.
 
 ### Pro's:
-- **Maturity**: Caffe is being used my many large corporations including Facebook and recevies many contributions allowing it to quickly grow and accomodate more features.
-- **Documentation**: Caffe has extensive documentation in place along with beginner friendly guides to make sure user's don't drop out during the initial learning curve.
+- **Maturity**: Caffe is being used my many large corporations including Facebook as well as startups and academic projects. It's GitHub repository as over 4K commits from 250+ contributors indicating a vibrant environment. A Google Group of Caffe users to discuss issues eases debugging issues and encourages widespread adoption.
+- **Documentation**: Caffe has extensive documentation in place catering beginner as well as advance users to ensure the steep learning curve is eased up. From practical examples of implenting a framework from scratch, different documentation for API as well as underlying framework to laying down guidelines for contribution on GitHub, the exhaustive documentation ensures better applicability of the framework as well smoothens up synchronization among different contributors.
 - **Multi-Platform**: Like Surround, Caffe is available to be used at all the major platforms, including Windows, Mac and Ubuntu.
 
 ### Con's:

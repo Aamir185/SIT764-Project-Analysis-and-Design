@@ -30,5 +30,5 @@ Caffe, developed at University of California, Berkley, is an open-source deep le
 - **Multi-Platform**: Like Surround, Caffe is available to be used at all the major platforms, including Windows, Mac and Ubuntu.
 
 ### Con's:
-- **Production specific**: Caffe is tailored to be used for production deployments and is not very useful for researchers limiting the target audience.
+- **Slow development**: Despite it's popularity development into caffe has slowed down recently and the framework might be starting at a dead end unless it improves it's features to stimulate development.
 - **Complexity**: Caffe has been criticised for it's convoluted codes consequently increasing the complexity of the task at hand rather than reducing it. 

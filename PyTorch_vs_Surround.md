@@ -17,7 +17,7 @@ SurroundAI was developed by Applied Artifcial Intelligence Institute (A2I2) base
 1. Machine Learning Framework
 
 Frameworks differs from libraries in that the former provides certain level of abstraction to the users allowing them to solve complex problems in a convenient way. Both PyTorch and Surround are frameworks which can be used to by users of varied skill set and experience to implement and deploy machine learning algorithms in short period of time.
-
+ 
 2. Pythonic
 
 Python is the fastest-growing programming language and Kaggle survey of 16000 professional in the field of data science reported that 87% of them used Python at their work place. Having the framework adopt features similar to Python enables it to be easy to understand by professionals who are well versed with it. Both PyTorch and Surround are built using python incorporating object oriented terminologies, making it easier to adopt and learn.

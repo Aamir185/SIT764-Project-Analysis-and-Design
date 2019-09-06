@@ -36,4 +36,7 @@ The main area of difference between the two frameworks is the presence of a vibr
 
 PyTorch has a dedicated website which houses tutorials, blogs and all necessary information for anyone wishing to learn it. Such a website not only provides a boost to its presence, but allows beginners to quickly grasp the basics and get cracking with their models. The absence of such a website and similar documentation for Surroud is a big point of concern which should be addressed in the near future.
 
+3. **Extensibility**
+
+PyTorch community forums are abuzz with extensibility issues and many users are seen complaining about the difficulty of using other frameworks and API's withing PyTorch. Surround, on the other hand, is built with flexibility and extensibility in mind and plays well with popular machine learning frameworks including PyTorch, TensorFlow to name a few.
 

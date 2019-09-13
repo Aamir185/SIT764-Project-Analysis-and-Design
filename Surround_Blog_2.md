@@ -32,3 +32,6 @@ Caffe, developed at University of California, Berkley, is an open-source deep le
 ### Con's:
 - **Slow development**: Despite it's popularity development into caffe has slowed down recently and the framework might be starting at a dead end. It has recently been replaced by Caffe2 by Facebook in 2017 resulting in even fewer contributions and usage.
 - **Complexity**: Caffe has been criticised for it's convoluted codes consequently increasing the complexity of the task at hand rather than reducing it. 
+
+# Conclusion:
+Both Caffe and Surround are excellent machine learning frameworks saving machine learners plenty of time and energy and allowing them to focus more on business problem than te technical complexities. Each framework has an area in which excels and lags and it depends upon the user's usecase which of the above framework would work best.

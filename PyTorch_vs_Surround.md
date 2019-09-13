@@ -38,7 +38,7 @@ PyTorch has a dedicated website which houses tutorials, blogs and all necessary 
 
 3. **Extensibility**
 
-PyTorch community forums are abuzz with extensibility issues and many users are seen complaining about the difficulty of using other frameworks and API's withing PyTorch. Surround, on the other hand, is built with flexibility and extensibility in mind and plays well with popular machine learning frameworks including PyTorch, TensorFlow to name a few.
+PyTorch community forums are abuzz with extensibility issues and many users are seen complaining about the difficulty of using other frameworks and API's with PyTorch. Surround, on the other hand, is built with flexibility and extensibility in mind and plays well with popular machine learning frameworks including PyTorch, TensorFlow to name a few.
 
 # Conclusion
 

@@ -1,8 +1,8 @@
 # PyTorch vs SurroundAI: A Comparative Analysis
 
-In this article, we compare two upcoming machine learning frameworks to identify their usability and limitations.
-
 ## Introduction
+
+Building a machine learning algorithm is in itself a daunting task depending upon the nature and complexity of the problem at hand, the matter becomes even more complicated when trying to choose a framework to help assist you. If you are a beginner a simple search will yeild plenty of frameworks and choosing the right one might determine whether you succeed in your endeavour or not. The purpose of this blog is to help such users compare few of those frameworks analysing their strengths and weakness to help them make an informed choice. Both the frameworks chosen for this comparison are relatively new and offers tons of features which can prove handy to the user. So without futher delay, lets analyse them! 
 
 ### PyTorch
 
@@ -40,3 +40,6 @@ PyTorch has a dedicated website which houses tutorials, blogs and all necessary 
 
 PyTorch community forums are abuzz with extensibility issues and many users are seen complaining about the difficulty of using other frameworks and API's withing PyTorch. Surround, on the other hand, is built with flexibility and extensibility in mind and plays well with popular machine learning frameworks including PyTorch, TensorFlow to name a few.
 
+# Conclusion
+
+As you might have noticed, no framework out there is perfect. Each framework has its flaws as well as strengths and it is important to know which is which before you start to use it. After all, you don't want to find out a particular framework lacks the libraries or functionaity to do a particualr critical task after you have invested hours or even days studying and understanding it. This blogs has covered the strengths and weakness of two such blogs and I hope it might have helped you decide which one to choose.

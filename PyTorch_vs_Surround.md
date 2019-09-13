@@ -20,7 +20,7 @@ Frameworks differs from libraries in that the former provides certain level of a
  
 2. **Pythonic**
 
-Python is the fastest-growing programming language and Kaggle survey[1] of 16000 professionals in the field of data science reported that 87% of them used Python at their work place. Having the framework adopt features similar to Python enables it to be easy to understand by professionals who are well versed with it. Both PyTorch and Surround are built using python incorporating object oriented terminologies, making it easier to adopt and learn.
+Python is the fastest-growing programming language and Kaggle survey [1] of 16000 professionals in the field of data science reported that 87% of them used Python at their work place. Having the framework adopt features similar to Python enables it to be easy to understand by professionals who are well versed with it. Both PyTorch and Surround are built using python incorporating object oriented terminologies, making it easier to adopt and learn.
 
 3. **End-to-end solution**
 

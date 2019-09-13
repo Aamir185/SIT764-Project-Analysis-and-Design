@@ -1,10 +1,10 @@
-# *<u>VERSION CONTROL</u>*
+# *<u>Version Control</u>*
 
 *Version control is easy to revert back to previous versions. It is also known as revision control or source control it manages the changes to documents, computer programs and other collections of information. It solves the web application frame work problems such as connecting to databases, managing configuration, rendering static and dynamic content and handling security concerns.*
 
-# <u>SURROUND CLI VS DVC</u>
+# <u>Surround CLI vs DVC</u>
 
-## <u>SURROUND AI CLI</u>
+## <u>Surround CLI</u>
 
 *Surround AI is a Python Frame work designed for Flexible usage in AI. It supports Data Scientist in their work progress. Surround AI is developed both for researchers and developers. It is developed and maintained by Applied Artificial intelligence institute(A2I2).*
 
@@ -14,7 +14,7 @@
 
 Surround was built to resolve some competing requirements of both researchers and engineers. Where in general, researchers want to dive into the data and leave code quality to later, and engineers prefer well structured code from the start. We attempt to solve this problem with Surround by introducing a production first mindset and providing conventions for researchers by creating a separate folder for data exploration scripts. 
 
-#### asy Mode of Interaction:
+#### Easy Mode of Interaction:
 Machine Learning projects has special concerns such as Experimentation, managing and versioning the data and models, visualizing the model performance. 
 Surround AI provides single place for every concern that arises while creating Machine learning project. Easy mode of interaction between Several machine learning pipelines together.
 

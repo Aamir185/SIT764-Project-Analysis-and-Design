@@ -27,7 +27,7 @@ One of the concern with Surround AI is Init, while creating the project the proj
 <b> To generate new project:</b>
 
 <div style="background-color:C1BFC6;color:black;padding:px;">
-  <p>$ surround init <path-to-dir> --project-name sample --description "Sample" --require-web
+  <p>``` $ surround init <path-to-dir> --project-name sample --description "Sample" --require-web ```
 </p>
 </div> 
 

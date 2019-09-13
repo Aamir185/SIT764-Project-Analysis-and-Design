@@ -20,7 +20,7 @@ Frameworks differs from libraries in that the former provides certain level of a
  
 2. **Pythonic**
 
-Python is the fastest-growing programming language and Kaggle survey of 16000 professional in the field of data science reported that 87% of them used Python at their work place. Having the framework adopt features similar to Python enables it to be easy to understand by professionals who are well versed with it. Both PyTorch and Surround are built using python incorporating object oriented terminologies, making it easier to adopt and learn.
+Python is the fastest-growing programming language and Kaggle survey[1] of 16000 professionals in the field of data science reported that 87% of them used Python at their work place. Having the framework adopt features similar to Python enables it to be easy to understand by professionals who are well versed with it. Both PyTorch and Surround are built using python incorporating object oriented terminologies, making it easier to adopt and learn.
 
 3. **End-to-end solution**
 
@@ -43,3 +43,8 @@ PyTorch community forums are abuzz with extensibility issues and many users are 
 # Conclusion
 
 As you might have noticed, no framework out there is perfect. Each framework has its flaws as well as strengths and it is important to know which is which before you start to use it. After all, you don't want to find out a particular framework lacks the libraries or functionaity to do a particualr critical task after you have invested hours or even days studying and understanding it. This blogs has covered the strengths and weakness of two such blogs and I hope it might have helped you decide which one to choose.
+
+
+# Reference
+
+1. https://www.kaggle.com/codename007/developer-survey-2018-complete-analysis/notebook

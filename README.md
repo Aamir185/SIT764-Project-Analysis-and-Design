@@ -1,2 +1,2 @@
-# SurroundBlog
-Repository to sync all work related to creation of blogs for Surround
+# Surround Blog
+Repository to sync all the work related creation of blogs for Surround
